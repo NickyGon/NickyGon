@@ -1,4 +1,12 @@
-### Hi there 👋
+### Presentation
+
+I'm a medium-level mobile developer. Can use Android and Kotlin
+
+Currently a student of Universida
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickyGon)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NickyGon/NickyGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
