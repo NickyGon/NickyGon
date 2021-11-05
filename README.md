@@ -1,8 +1,8 @@
 ### Presentation
 
-I'm a medium-level mobile developer. Can use Android and Kotlin
+I'm a medium-level mobile developer. Can use Android https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png and Kotlin
 
-Currently a student of Universida
+Currently a student of 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickyGon)](https://github.com/anuraghazra/github-readme-stats)
