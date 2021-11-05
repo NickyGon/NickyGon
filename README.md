@@ -21,12 +21,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickyGon)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My best Repositories, both shared and own ones:
-- ## [Tu Mejor Viaje][githubRepoSafari]
-A social media app for tourists and exchange students who want to be prepared for their next trips to other countries, knowing the documentation requisites, expected profit to their stay, interesting places and important facts they should know before their journey. </br>
-Kotlin based, using Retrofit and Room databases, and other libraries such as CircleImageView, ImageZoom, and others
-- ## [WikiCan][gitHubRepoInduccion]
-A local PC app made as a basic encylopedia about dog breeds, enabling users to connect and share info about new breeds.</br>
-Python based, using Tkinter UI creator
+## [Tu Mejor Viaje][githubRepoSafari]
+- A social media app for tourists and exchange students who want to be prepared for their next trips to other countries, knowing the documentation requisites, expected profit to their stay, interesting places and important facts they should know before their journey. </br>
+- Kotlin based, using Retrofit and Room databases, and other libraries such as CircleImageView, ImageZoom, and others
+- Created as a final proyect for the Android Certification subject
+## [WikiCan][gitHubRepoInduccion]
+- A local PC app made as a basic encylopedia about dog breeds, enabling users to connect and share info about new breeds.</br>
+- Python based, using Tkinter UI creator.</br>
+- Created as a final proyect for the Career Induction subject
 
 [androidSite]:https://developer.android.com/
 [pythonSite]:https://www.python.org/
