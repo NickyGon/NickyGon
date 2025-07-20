@@ -3,18 +3,16 @@
 
 
 
-### My name is Nicole Patricia Góngora Rodríguez. I'm a medium-level mobile developer, college student, and casual programmer!
+### My name is Nicole Patricia Góngora Rodríguez. I'm a medium-level mobile developer, full-stack web developer.
 
-- 🔭 I’m currently working, with [@AleChirinos](https://github.com/AndreM22) and [@AndreM22](https://github.com/AndreM22), on a mobile tourism experience social network app called [Tu Mejor Viaje][githubRepoSafari]
-- 🌱 I’m currently learning Kotlin Jetpack Compose [<img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" width="26px" alt="Android"/>][jetpackSite]
-- 👯 I’m looking to collaborate with professional mobile app or videogame developers
-- ⚡ Fun facts: My current hobbies are casual comic drawing, playing videogames and playing flute recorder
-- :school: I'm currently studing at Universidad Privada Boliviana. This is my 6th semester in the IT Programming Systems career
+- 🔭 I’m currently working on Coderoad, within the DDC Cox Automotive project.
+- 🌱 I’m currently interested in learning QA with Postman, and participating in an AI Agent Hackathon
+- 👯 I’m looking forward to collaborate on no-code AI Agent creation.
+- ⚡ Fun facts: I'm recently passionate for the Eurovision Song Contest. My current hobbies are sketching and casual cycling.
 - :earth_americas: I live in La Paz, Bolivia
 
 ### My social networks:
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" width="56px" alt="Facebook"/>][facebookSite]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" width="56px" alt="Twitter"/>][twitterSite] 
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" width="56px" alt="Facebook"/>][facebookSite] 
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" width="56px" alt="Instagram"/>][instagramSite] 
 
 <br/>
